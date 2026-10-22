@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+coverage/
+.vercel/
+.tanstack/
+.grok/app-env.json
+.grok/preview.log
+.grok/status
+screenshots/*
+!screenshots/.gitkeep
